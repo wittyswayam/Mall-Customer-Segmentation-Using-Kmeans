@@ -1,4 +1,4 @@
-# Enhanced README for Customer Segmentation KMeans Project
+# Customer Segmentation KMeans Project
 
 ## 🎯 Project Overview
 End-to-end unsupervised ML project implementing **KMeans clustering** for mall customer segmentation using real-world dataset. Segments 200 customers into 3 actionable groups based on Age, Gender, Annual Income, and Spending Score - perfect for targeted marketing campaigns.[1]
